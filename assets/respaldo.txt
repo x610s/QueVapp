@@ -1,0 +1,33 @@
+        {
+            "id": 2,
+            "disponible": true,
+            "nombre": "Camisa",
+            "precio": 20.4,
+            "productoFotos": [
+                "franela1.jpg",
+                "franela2.jpg",
+                "franela3.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "disponible": false,
+            "nombre": "Pc",
+            "precio": 30.1,
+            "productoFotos": [
+                "pc1.jpg",
+                "pc2.jpg",
+                "pc3.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "disponible": false,
+            "nombre": "Telefono",
+            "precio": 400.12,
+            "productoFotos": [
+                "telefono1.png",
+                "telefono2.jpg",
+                "telefono3.jpg"
+            ]
+        }
